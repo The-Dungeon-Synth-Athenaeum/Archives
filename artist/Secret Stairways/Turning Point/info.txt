@@ -1,0 +1,27 @@
+[Name]
+Turning Point -|- Secret Stairways
+
+[Info]
+Full-Length
+1999
+Self-Released
+N/A
+CDr
+
+[Cover]
+cover.jpg 
+
+[Notes]
+Cover art by Gustave Dore (public domain)
+
+[Songs]
+Transcendence -|- 00:03:10
+Will o' the Wisp -|- 00:03:27
+Halls of Avalon -|- 00:03:13
+Argea -|- 00:01:30
+Into the Astral Wind -|- 00:05:51
+Voices -|- 00:04:06
+Gwenhwyfar -|- 00:03:28
+Unicorn Carousel -|- 00:03:57
+A Hidden Place -|- 00:02:51
+The Return of Lucina -|- 00:03:36

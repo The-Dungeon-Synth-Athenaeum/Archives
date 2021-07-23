@@ -1,0 +1,21 @@
+[Name]
+Fableglade Records
+
+[Info]
+United States
+Colorado
+Active
+Dungeon/Nature Synth, Cassette
+2020
+Yes
+
+[Notes]
+Fableglade Webstore -|- https://fablegladerecords.bandcamp.com/
+fablegladerecords@gmail.com -|- mailto:fablegladerecords@gmail.com
+Run by <a href="../../artist/Dylan Rupe">Dylan Rupe</a>
+
+[Images]
+logo.png
+
+[Releases]
+FGR006 -|- Fogweaver -|- Spellwind -|- Full-Length -|- 2020 -|- Cassette

@@ -1,0 +1,29 @@
+[Name]
+Burzum
+
+[Info]
+Black Metal, Dark Ambient
+Folklore
+Norway
+Nouvelle-Aquitaine, France 
+Disbanded
+1991-2000, 2009-2018
+Byelobog Productions
+Varg Vikernes/Louis Cachet
+
+[Notes]
+See Metal Archives for a full overview, including Metal Releases
+
+[Images]
+logo.png
+artist.jpg
+
+[Albums]
+Dauði Baldrs -|- Full-Length -|- 1997
+Hliðskjálf -|- Full-Length -|- 1999
+Thulêan Mysteries -|- Full-Length -|- 2020
+
+[Links]
+Website -|- http://www.burzum.org/
+Metal Archives -|- https://www.metal-archives.com/bands/burzum/88
+Discogs -|- https://www.discogs.com/artist/175037-Burzum

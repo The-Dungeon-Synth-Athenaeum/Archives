@@ -1,0 +1,18 @@
+PERSON
+
+[Name]
+Tim Rowland
+
+[Info]
+United States
+?
+Male
+
+[Notes]
+
+[Images]
+
+[Projects]
+Forklift Operator -|- artist -|- 2020-Present -|- All Instruments
+Hole Dweller -|- artist -|- 2019-Present -|- All Instruments
+Bellkeeper -|- artist -|- 2019-Present -|- All Instruments

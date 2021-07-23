@@ -1,0 +1,25 @@
+[Name]
+Grandma's Cottage
+
+[Info]
+Comfy Synth
+Nostalgia
+United States
+Springfield, Ohio
+Active
+2019-Present
+Dungeons Deep Records
+Lord Tetrarch
+
+[Images]
+artist.jpg
+
+[Albums]
+Grandma's Cottage -|- Full-Length -|- 2019
+Memory Box -|- Full-Length -|- 2020
+
+
+[Links]
+Bandcamp -|- https://grandmascottage.bandcamp.com
+Discogs -|- https://www.discogs.com/artist/7546964-Grandmas-Cottage
+

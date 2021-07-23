@@ -1,0 +1,22 @@
+[Name]
+In the Kingdom of Fog -|- Fog Castle \-/ Foglord
+
+[Info]
+Split
+November 1st, 2020
+Fableglade Records
+FGR017
+Cassette
+100
+
+[Cover]
+cover.jpg
+
+[Songs]
+Fog Castle - Dreams of the Mist -|- 00:06:19
+Fog Castle - Sanctuary of Gemcarvers -|- 00:09:02
+Foglord - Light in the Mountain -|- 00:09:04
+Foglord - The Essence -|- 00:08:01
+Fogweaver - Werelight -|- 00:04:01
+Fogweaver - To Call Upon the Fog -|- 00:04:54
+Fogweaver - Aihal the Silent -|- 00:04:52

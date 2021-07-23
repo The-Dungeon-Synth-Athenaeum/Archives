@@ -1,0 +1,23 @@
+[Name]
+Fog Castle -|- Fog Castle
+
+[Info]
+Full-Length
+August 17th, 2018
+Self-Released
+N/A
+Digital
+
+[Cover]
+cover.jpg
+
+[Songs]
+Legend of the Fog Castle -|- 00:04:13
+Lorebooks in Candlelight -|- 00:05:26
+Shimmering Mists of the Stag's Glade -|- 00:06:19
+The Castle on the Evergreen Tor -|- 00:06:38
+Through Ancient Forests -|- 00:06:26
+The Castle in the Fog -|- 00:07:56
+Book of Mosstowers -|- 00:05:14
+Towers of Moss & Stone -|- 00:08:36
+Guardians of the Ancient Forest -|- 00:08:46

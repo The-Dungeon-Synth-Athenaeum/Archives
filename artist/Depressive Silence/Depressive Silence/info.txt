@@ -1,0 +1,21 @@
+[Name]
+Depressive Silence -|- Depressive Silence
+
+[Info]
+Demo
+1995
+Self-Released
+N/A
+Cassette
+
+[Cover]
+cover.jpg 
+
+[Notes]
+Demo originally released as a B-side on a Mightiest tape.
+
+
+[Songs]
+Medieval Demons -|- 00:16:48
+Dark Side -|- 00:08:01
+Düsterwald -|- 00:08:39

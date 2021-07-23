@@ -1,0 +1,30 @@
+[Name]
+New Realms and Forgotten Lands -|- Foglord
+
+[Info]
+Full-Length
+May 30th, 2013
+Mithrim Records
+Mithrim01
+Cassette
+50
+
+[Cover]
+cover.jpg
+
+[Notes]
+Music and artwork by Darien D.
+
+[Songs]
+Intro - The Awakening -|- 00:02:19
+Reflections of a New Realm -|- 00:04:56
+Passage -|- 00:02:30
+Journey in a Dream -|- 00:03:53
+The Full Moon Over Forgotten Ruins -|- 00:03:30
+Pt. I - Forest Sense -|- 00:03:28
+Pt. II - Under the Dusk Sky -|- 00:01:15
+Wandering Through Lost Lands -|- 00:07:36
+Spirit of the Ancient Woodland -|- 00:05:29
+An Old Wisdom -|- 00:02:35
+Vættir -|- 00:03:08
+Sanctum of Moss/Outro -|- 00:04:01

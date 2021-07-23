@@ -1,0 +1,21 @@
+[Name]
+I -|- Fief
+
+[Info]
+Full-Length
+August 1st, 2016
+Out of Season
+OOS21
+Cassette
+100
+
+[Cover]
+cover.jpg
+
+[Songs]
+Cobblestone & Magic -|- 00:03:57
+Tales by Tavern Hearthglow -|- 00:03:44
+Meetings Under Medieval Stars -|- 00:03:10
+Wandering Minstrel -|- 00:03:43
+The Tinker's Wagon -|- 00:02:26
+To Rest in the Shade of Dragon Wings -|- 00:03:40

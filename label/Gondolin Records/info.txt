@@ -1,0 +1,21 @@
+[Name]
+Gondolin Records
+
+[Info]
+Denmark
+
+Active
+Dungeon Synth, Cassette/Vinyl
+2018
+Yes
+
+[Notes]
+Gondolin Webstore -|- https://fablegladerecords.bandcamp.com/
+Gondolin Facebook -|- https://www.facebook.com/gondolinrecords/
+Also runs <a href="https://www.forsakenrelics.com/">Forsaken Relics</a>
+
+[Images]
+logo.jpg
+
+[Releases]
+GON072 -|- Solanum -|- Spheres Of Time -|- Demo -|- 2020 -|- Cassette

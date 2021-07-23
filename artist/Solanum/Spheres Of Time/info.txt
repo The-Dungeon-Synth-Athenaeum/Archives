@@ -1,0 +1,22 @@
+[Name]
+Spheres Of Time -|- Solanum
+
+[Info]
+Demo
+1998
+Chanteloup Creations
+AWE 15
+Cassette
+200
+
+[Cover]
+cover.jpg 
+
+[Notes]
+Originally self-released in an edition of 75
+
+[Songs]
+An illusion of time -|- 00:08:45
+Senseless  -|- 00:05:27
+Passing the gates to another world -|- 00:08:18
+Space and time -|- 00:05:51

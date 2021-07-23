@@ -1,0 +1,19 @@
+[Name]
+Spectral Poetry -|- Solanum
+
+[Info]
+Demo
+1999
+Fog Of The Apocalypse
+FOTA 007
+Cassette
+300
+
+[Cover]
+cover.jpg 
+
+[Songs]
+Fortuna -|- 00:06:05
+Oceanic abyss  -|- 00:06:07
+This time... -|- 00:06:13
+Spectral poetry -|- 00:06:49

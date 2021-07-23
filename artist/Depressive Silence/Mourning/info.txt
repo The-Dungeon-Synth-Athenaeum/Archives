@@ -1,0 +1,19 @@
+[Name]
+Mourning -|- Depressive Silence
+
+[Info]
+Demo
+1996
+Self-Released
+N/A
+Cassette
+
+[Cover]
+cover.jpg 
+
+[Songs]
+Forest of eternity -|- 00:09:23
+Depths of the oceans -|- 00:08:14
+Spheres -|- 00:07:02
+Mourning -|- 00:06:37
+Dreams -|- 00:06:12

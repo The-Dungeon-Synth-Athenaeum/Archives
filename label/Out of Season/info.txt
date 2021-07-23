@@ -1,0 +1,24 @@
+[Name]
+Out of Season
+
+[Info]
+United States
+PO Box 8597, Portland, ME 04104, USA
+Active
+Dungeon Synth, Medival Ambient
+2008
+Yes
+
+[Notes]
+Out of Season Webstore -|- https://www.outofseasonlabel.com/
+info@outofseasonlabel.com -|- mailto:info@outofseasonlabel.com
+
+[Images]
+label.webp
+
+[Releases]
+OOS21 -|- Fief -|- I -|- Full-Length -|- 2016 -|- Cassette
+OOS34 -|- Fief -|- II -|- Full-Length -|- 2016 -|- Cassette
+OOS56 -|- Fief -|- III -|- Full-Length -|- 2017 -|- Cassette
+OOS75 -|- Fief -|- IV -|- Full-Length -|- 2018 -|- Cassette
+OOS110 -|- Fief -|- V -|- Full-Length -|- 2019 -|- Cassette

@@ -1,0 +1,25 @@
+[Name]
+V -|- Fief
+
+[Info]
+Full-Length
+November 30th, 2019
+Out of Season
+OOS110
+Cassette
+250
+
+[Notes]
+Album artwork by Silvana Massa
+
+[Cover]
+cover.jpg
+
+[Songs]
+The Road Through Town -|- 00:03:50
+Medival Reveries -|- 00:03:18
+Citadel Streets -|- 00:04:09
+The Mushroom Mage -|- 00:04:12
+The Days of Dice And Daring -|- 00:03:50
+Dragon Songs -|- 00:03:51
+On Bardic Journeys -|- 00:04:42

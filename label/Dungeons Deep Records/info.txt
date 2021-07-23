@@ -1,0 +1,23 @@
+[Name]
+Dungeons Deep Records
+
+[Info]
+United States
+Dungeons Deep Records <br> PO Box 255 <br> Springfield, Ohio 45501 <br> USA
+Active
+Dungeon Synth, Cassettes & Vinyl 
+2006
+Yes
+
+[Notes]
+Dungeons Deep Webstore -|- https://dungeonsdeep.com/
+dungeonsdeep@gmail.com -|- mailto:dungeonsdeep@gmail.com
+
+[Images]
+label.jpg -|- 200-200
+label2.jpg -|- 300-
+
+[Releases]
+DDR038 -|- Hole Dweller -|- flies the coop -|- Full Length -|- 2019 -|- Cassette
+DDR053 -|- Hole Dweller -|- Returns to Roost -|- Full Length -|- 2020 -|- Cassette
+DDR068 -|- Hole Dweller -|- flies the coop II -|- Full Length -|- 2020 -|- Cassette

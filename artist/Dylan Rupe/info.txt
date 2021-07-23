@@ -1,0 +1,17 @@
+PERSON
+
+[Name]
+Dylan Rupe
+
+[Info]
+United States
+?
+?
+
+[Images]
+person.jpg
+
+[Projects]
+Fogweaver -|- artist -|- 2019-Present -|- All Instruments
+Fableglade Records -|- label -|- 2020-Present -|- 
+Hideous Gomphidius -|- artist -|- 2020-Present -|- All Instruments

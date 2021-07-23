@@ -1,0 +1,29 @@
+[Name]
+Fog Castle
+
+[Info]
+Dungeon Synth, Dark Ambient
+Nature
+United States
+Unknown
+Active
+2018-Present
+Fableglade Records
+
+[Notes]
+Part of <a href="../Fog Crag Records">Fog Crag Records</a>
+
+[Images]
+logo.jpg
+artist.jpg
+
+[Albums]
+Fog Castle -|- Full-Length -|- 2018
+Fog in the Stag's Glade -|- Full-Length -|- 2018
+The Castle on the Mountain -|- Full-Length -|- 2019
+Sanctuary of the Fogwood -|- Full-Length -|- 2020
+Fog Castle \/ Foglord \/ Fogweaver \-/ In The Kingdom Of Fog -|- Split -|- 2020
+
+[Links]
+Bandcamp -|- https://fogcastle.bandcamp.com
+Discogs -|- https://www.discogs.com/artist/8186239-Fog-Castle

@@ -1,0 +1,28 @@
+[Name]
+Fief
+
+[Info]
+Dungeon Synth, Medival Ambient
+Fantasy, Medival
+United States
+Salt Lake City, Utah
+Active
+2016-Present
+Out of Season
+
+[Images]
+artist.jpg -|- 200px-200px
+
+[Albums]
+I -|- Full-Length -|- 2016
+II -|- Full-Length -|- 2016
+III -|- Full-Length -|- 2017
+IV -|- Full-Length -|- 2018
+V -|- Full-Length -|- 2019
+
+[Similar Artists]
+Foglord -|- Forest Ambient
+Thangorodrim -|- Epic
+
+[Links]
+Bandcamp -|- https://fief.bandcamp.com

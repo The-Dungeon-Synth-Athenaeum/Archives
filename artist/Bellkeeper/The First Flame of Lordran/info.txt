@@ -1,0 +1,27 @@
+[Name]
+The First Flame of Lordran -|- Bellkeeper
+
+[Info]
+Full-Length
+February 6th, 2019
+Dungeons Deep Records
+DDR026
+Cassette
+50
+
+[Cover]
+cover.jpg 
+
+[Notes]
+First Edition Cassette includes bonus track "Sanctuary of Souls"
+
+Second Edition Cassette includes the bonus tracks "Sanctuary of Souls" and "Purple Moss Clump"
+
+[Songs]
+Rekindled -|- 00:04:31
+From Peak to Festering Deep -|- 00:05:24
+The Pained World and Eternal Night -|- 00:04:33
+A Sanctum of Ash and Ember -|- 00:01:42
+The Bell and Resurrection -|- 00:05:42
+Uchigatana -|- 00:01:46
+Sungazer (To Find One's Own Sun) -|- 00:04:18

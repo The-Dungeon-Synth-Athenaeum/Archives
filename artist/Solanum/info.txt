@@ -1,0 +1,23 @@
+[Name]
+Solanum
+
+[Info]
+Dungeon Synth
+Time 
+Germany
+
+Disbanded
+1997-1999
+Gondolin Records
+B.S.
+
+[Images]
+logo.jpg
+
+[Albums]
+Spheres Of Time -|- Demo -|- 1998
+Spectral Poetry -|- Demo -|- 1999
+
+[Links]
+Bandcamp -|- https://a-spell-enraged.bandcamp.com
+Discogs -|- https://www.discogs.com/artist/2973280-Solanum

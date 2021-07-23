@@ -1,0 +1,18 @@
+[Name]
+The Darkened Empires -|- Depressive Silence
+
+[Info]
+Demo
+1996
+Self-Released
+N/A
+Cassette
+
+[Cover]
+cover.jpg 
+
+[Songs]
+In death's sleep -|- 00:09:30
+To die in your dreams -|- 00:06:09
+Black visions -|- 00:06:25
+Journey to my realms -|- 00:11:22

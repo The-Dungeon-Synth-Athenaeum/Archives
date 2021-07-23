@@ -1,0 +1,28 @@
+[Name]
+Fogweaver
+
+[Info]
+Fantasy Ambient, Dungeon Synth
+Earthsea
+United States
+Colorado
+Active
+2019-Present
+Fableglade Records
+Dylan Rupe
+
+[Images]
+artist.jpg
+
+[Albums]
+Fogweaver -|- Full-Length -|- 2019
+Spellwind -|- Full-Length -|- 2020
+Erreth-Akbe \/ Fogweaver \-/ The Immanent Grove -|- Split -|- 2020
+Fog Castle \/ Foglord \/ Fogweaver \-/ In The Kingdom Of Fog -|- Split -|- 2020
+Verduran -|- Full-Length -|- 2020
+
+
+[Links]
+Bandcamp -|- https://thefogweaver.bandcamp.com
+Facebook -|- https://www.facebook.com/fogweaver
+Discogs -|- https://www.discogs.com/artist/7212788-Fogweaver

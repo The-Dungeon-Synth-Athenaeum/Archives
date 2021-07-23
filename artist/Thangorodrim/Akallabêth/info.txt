@@ -1,0 +1,20 @@
+[Name]
+Akallabêth -|- Thangorodrim
+
+[Info]
+EP
+January 5th, 2018
+Metalstrom Recordings
+MTLSTRM-02
+Cassette
+100
+
+[Cover]
+cover.jpg 
+
+[Notes]
+"It is said by the Eldar that Men came into the world in the time of the Shadow of Morgoth, and they fell swiftly under his dominion; for he sent his emissaries among them, and they listened to his evil and cunning words, and they worshipped the Darkness and yet feared it. But there were some that turned from evil and left the lands of their kindred, and wandered ever westward; for they had heard a rumour that in the West there was a light which the Shadow could not dim."
+
+[Songs]
+Númenor -|- 00:12:37
+The Feeling of Nimloth -|- 00:08:10

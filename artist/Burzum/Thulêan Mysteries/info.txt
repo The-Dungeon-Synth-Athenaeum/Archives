@@ -1,0 +1,37 @@
+[Name]
+Thulêan Mysteries -|- Burzum
+
+[Info]
+Full-Length
+March 13th, 2020
+Byelobog Productions
+BYE013
+CD
+
+[Cover]
+cover.jpg 
+
+[Songs]
+The Sacred Well -|- 00:02:56
+The Loss of a Hero -|- 00:00:53
+ForeBears -|- 00:04:03
+A Thulêan Perspective -|- 00:04:01
+Gathering of Herbs -|- 00:01:13
+Heill auk Sæll -|- 00:03:36
+Jötunnheimr -|- 00:01:37
+Spell-Lake Forest -|- 00:01:06
+The Ettin Stone Heart -|- 00:01:14
+The Great Sleep -|- 00:01:27
+The Land of Thulê -|- 00:02:13
+The Lord of the Dwarves -|- 00:05:14
+A Forgotten Realm -|- 00:07:24
+Heill Óðinn, Sire -|- 00:01:17
+The Ruins of Dwarfmount -|- 00:01:29
+The Road to Hel -|- 00:07:42
+Thulêan Sorcery -|- 00:02:10
+Descent into Niflheimr -|- 00:01:42
+Skin Traveller -|- 00:04:35
+The Dream Land -|- 00:08:42
+Thulêan Mysteries -|- 00:04:22
+The Password -|- 00:15:13
+The Loss of Thulê  -|- 00:05:02

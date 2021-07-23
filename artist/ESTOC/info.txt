@@ -1,0 +1,21 @@
+[Name]
+ESTOC
+
+[Info]
+Dungeon Synth
+Fantasy
+Finland
+Unknown
+Active
+2019-Present
+Dungeons Deep Records
+
+[Images]
+logo.jpg
+
+[Albums]
+Chapter I -|- Full-Length -|- 2019
+
+[Links]
+Bandcamp -|- https://estoc1.bandcamp.com/
+Discogs -|- https://www.discogs.com/artist/7947749-Estoc-2

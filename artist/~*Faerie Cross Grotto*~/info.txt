@@ -1,0 +1,22 @@
+[Name]
+~*Faerie Cross Grotto*~
+
+[Info]
+Fantasy Ambient, Synthgaze
+Crystals
+United States
+California
+Active
+2020-Present
+Fableglade Records
+
+[Images]
+logo.png
+artist.jpg
+
+[Albums]
+Crystal Majesty -|- Full-Length -|- 2020
+
+[Links]
+Bandcamp -|- https://faeriecrossgrotto.bandcamp.com
+Discogs -|- https://www.discogs.com/artist/8797447-~*Faerie-Cross-Grotto*~
