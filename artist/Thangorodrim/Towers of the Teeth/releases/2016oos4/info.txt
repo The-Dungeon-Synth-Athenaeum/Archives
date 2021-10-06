@@ -1,0 +1,17 @@
+[Name]
+Towers of the Teeth -|- Thangorodrim
+
+[Info]
+EP
+April 21st, 2016
+Out of Season
+oos4
+Cassette
+100
+
+[Cover]
+cover.jpg 
+
+[Songs]
+Narchost -|- 00:13:52
+Carchost  -|- 00:13:24

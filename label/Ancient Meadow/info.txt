@@ -1,0 +1,21 @@
+[Name]
+Ancient Meadow 
+
+[Info]
+United States
+P.O. Box 55345 Lexington, KY 40555
+Active
+Dungeon Synth, Black Metal, Cassette
+2017
+Yes
+
+[Notes]
+Ancient Meadow Webstore -|- https://https://ancientmeadow.com
+info@ancientmeadow.com -|- mailto:nfo@ancientmeadow.com
+Facebook -|- https://www.facebook.com/ancientmeadow
+
+[Images]
+logo.png
+
+[Releases]
+AM0008 -|- Träd -|- Träd -|- Full-Length -|- 2018 -|- Cassette

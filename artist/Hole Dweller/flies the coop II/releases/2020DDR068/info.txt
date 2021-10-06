@@ -1,0 +1,29 @@
+[Name]
+flies the coop II -|- Hole Dweller
+
+[Info]
+Full-Length
+November 27th, 2020
+Dungeons Deep Records
+DDR068
+Cassette
+300
+
+[Cover]
+cover.jpg
+
+[Notes]
+Cover Illustration by Paul Noble
+
+[Songs]
+Bridges to Ered Luin -|- 00:02:31
+The Hospitality of Elves is Nearly That of Halflings  -|- 00:02:36
+With A Taste for Miruvor -|- 00:02:24
+Waterfalls of Falathlorn -|- 00:02:53
+Departing Duilond at Sunrise -|- 00:02:45
+A Last Sip of Orange Sweet Cream -|- 00:02:54
+Hendroval Spies(Hiding the Wagon) -|- 00:02:56
+Crawlers, Spiders, and Wights! -|- 00:02:22
+A Rusted Coffer Within the Ruins of Emyn Hoedh -|- 00:02:16
+The Fall of a Brave Dwarven Company (Run Hobbit, Run!) -|- 00:03:24
+Epilogue (Dear Mr. Loamsdown) -|- 00:03:38

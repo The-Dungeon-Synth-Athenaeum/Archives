@@ -1,0 +1,21 @@
+[Name]
+Träd
+
+[Info]
+Dungeon Synth
+Castles 
+United States
+Meso, Arizona
+Active
+2017-Present
+Ancient Meadow 
+
+[Images]
+logo.jpg -|- 200px-200px
+
+[Albums]
+Träd -|- Full-Length -|- 2017
+
+[Links]
+Bandcamp -|- https://trdmusic.bandcamp.com
+Discogs -|- https://www.discogs.com/artist/6170546-Tr%C3%A4d 

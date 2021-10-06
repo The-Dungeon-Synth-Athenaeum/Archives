@@ -1,0 +1,26 @@
+[Name]
+II -|- Fief
+
+[Info]
+Full-Length
+January 31st, 2017
+Out of Season
+OOS34
+Cassette
+100
+
+[Cover]
+cover.jpg
+
+[Notes]
+Limited to 100 hand-numbered copies
+
+[Songs]
+Dawnlight Warms the Castle Stone -|- 00:03:57
+Deep Forest Dance  -|- 00:03:14
+Medieval Breeze -|- 00:03:27
+Peddling Potions -|- 00:03:21
+The Dice Wizard -|- 00:03:36
+A Good Inn  -|- 00:03:12
+In the Secret Glade of the Shy Dragon -|- 00:03:44
+Soul of a Nameless Bard -|- 00:04:20
