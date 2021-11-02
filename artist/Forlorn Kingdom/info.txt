@@ -1,0 +1,21 @@
+[Name]
+Forlorn Kingdom
+
+[Info]
+Dark Ambient, Dungeon Synth
+Fantasy
+Italy
+Unknown
+Active
+2013-Present
+Shadows Linger
+
+[Images]
+logo.jpg 
+
+[Albums]
+Walking The Paths Of Old -|- Demo -|- 2019
+
+[Links]
+Bandcamp -|- https://forlornkingdom.bandcamp.com/
+Discogs -|- https://www.discogs.com/artist/7227005-Forlorn-Kingdom

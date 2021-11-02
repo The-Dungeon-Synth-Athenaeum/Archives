@@ -1,0 +1,18 @@
+[Name]
+Dagor Bragalloch -|- Thangorodrim
+
+[Info]
+EP
+2018-01-05
+Wulfrune Worxxx
+ULV1024
+Cassette
+
+[Cover]
+cover.jpg 
+
+[Songs]
+Angband -|- 00:06:37
+Ard-Galen -|- 00:07:51
+Ringil -|- 00:13:03
+Grond -|- 00:07:22

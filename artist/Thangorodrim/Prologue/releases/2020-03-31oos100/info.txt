@@ -1,0 +1,33 @@
+[Name]
+Prologue -|- Thangorodrim
+
+[Info]
+Compilation
+2020-03-31
+Out of Season
+oos100
+Cassette
+300
+
+[Cover]
+cover.jpg 
+
+[Notes]
+Contains:
+
+Towers of the Teeth (Tracks 1-2)
+Dagor Bragalloch (Tracks 3-6)
+Tolkein Inspired Music Compilation (Tracks 7-8)
+Akallabeth (Tracks 9-10)
+
+[Songs]
+Narchost -|- 00:13:53
+Carchost -|- 00:13:23
+Angband -|- 00:06:37
+Ard-galen  -|- 00:07:51
+Ringil  -|- 00:13:03
+Grond -|- 00:07:22
+Isenmouthe -|- 00:06:49
+Ered Lithui -|- 00:08:19
+Númenor -|- 00:12:40
+The Felling of Nimloth -|- 00:08:13

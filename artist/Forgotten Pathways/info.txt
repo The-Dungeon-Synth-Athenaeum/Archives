@@ -1,0 +1,25 @@
+[Name]
+Forgotten Pathways
+
+[Info]
+Dungeon Synth
+Fantasy
+Germany
+Wiesbaden
+Active
+1997-99, 2014-Present
+Self-Released
+Cedric Hommel
+
+[Images]
+logo.jpg
+artist.jpg -|- 200-200
+
+[Albums]
+Shrouded In Mystery -|- Full-Length -|- 1998
+
+
+[Links]
+Bandcamp -|- https://forgottenpathways.bandcamp.com/
+Website -|- https://forgottenpathways.de/
+Discogs -|- https://www.discogs.com/artist/2819109-Forgotten-Pathways

@@ -1,0 +1,21 @@
+[Name]
+In a Darkened Age -|- Foglord
+
+[Info]
+EP
+2012-12-27
+Self-Released
+N/A
+Digital
+
+[Cover]
+cover.jpg
+
+[Notes]
+Guitar on track 3 by Andy Hanks
+
+[Songs]
+Mountains of Mist -|- 00:01:50
+Memories of a Dark Age -|- 00:05:59
+Into the Black Forest -|- 00:04:35
+Lost in the Dreams of Winter -|- 00:03:27

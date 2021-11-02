@@ -1,0 +1,25 @@
+[Name]
+III -|- Fief
+
+[Info]
+Full-Length
+2018-01-16
+Out of Season
+oos56
+Cassette
+100
+
+[Cover]
+cover.jpg
+
+[Notes]
+Limited to 100 copies on dark blue tapes
+
+[Songs]
+Dodecahedronous Questing -|- 00:02:56
+Secret Shops -|- 00:03:40
+The Sword That Sang -|- 00:04:15
+Innkeeper -|- 00:04:10
+Morning in the Misty Valley -|- 00:05:04
+Autumnal Winds -|- 00:04:04
+The Talespinner -|- 00:05:08

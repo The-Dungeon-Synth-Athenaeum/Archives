@@ -1,0 +1,19 @@
+[Name]
+Taur Nu Fuin -|- Thangorodrim
+
+[Info]
+Full-Length
+2016-07-31
+Out of Season
+oos14
+Cassette
+100
+
+[Cover]
+cover.jpg 
+
+[Songs]
+In Hills of Shadow Bleak and Cold -|- 00:11:48
+None Stirred the Listening Leaves  -|- 00:11:38
+Twilit Fogs of Tarn Aeluin  -|- 00:14:24
+Gwindor's Rest  -|- 00:11:41

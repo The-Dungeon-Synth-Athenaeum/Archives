@@ -1,0 +1,26 @@
+[Name]
+Träd -|- Träd
+
+[Info]
+Full-Length
+2018-01-26
+Ancient Meadow
+AM-0008
+Cassette
+50
+
+[Cover]
+cover.jpg 
+
+
+[Songs]
+I -|- 00:02:29
+II -|- 00:02:01
+III -|- 00:01:57
+IV -|- 00:02:10
+V -|- 00:01:58
+VI -|- 00:01:24
+VII -|- 00:01:44
+VIII -|- 00:01:46
+IX -|- 00:01:55
+X -|- 00:02:01

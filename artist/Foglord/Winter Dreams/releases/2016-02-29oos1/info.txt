@@ -1,0 +1,34 @@
+[Name]
+Winter Dreams -|- Foglord
+
+[Info]
+Compilation
+2016-02-29
+Out of Season
+oos1
+Cassette
+100
+
+[Cover]
+cover.jpg
+
+[Notes]
+A compilation of winter-themed tracks from some different splits, as well as four unreleased tracks.
+
+'A Journey in the Cold' and 'Frozen Lake', from the split with Altarium, Interioris Pax, Crescent Days and Autumn Ethereal.
+
+'The Dream of a Winter's Night', from the split entitled 'Fimbulwinter', with Elador.
+
+'Veils of Winter', from the split entitled 'Veils of Perception', with Sleeping Corpse.
+
+Music and artwork by Darien D.
+
+[Songs]
+Falling Snow -|- 00:02:31
+Soft Starlight in the Freezing Sky -|- 00:06:14
+A Journey in the Cold -|- 00:04:53
+Frozen Lake -|- 00:04:29
+Glacial (Secrets Within the Ice) -|- 00:04:23
+The Dream of a Winter's Night -|- 00:07:42
+Veils of Winter -|- 00:15:26
+A Feeling of Solitude, A memory from Long Ago -|- 00:01:17

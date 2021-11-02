@@ -1,0 +1,20 @@
+[Name]
+Fog in the Stag's Glade -|- Fog Castle
+
+[Info]
+Full-Length
+2018-11-30
+Self-Released
+N/A
+Digital
+
+[Cover]
+cover.jpg
+
+[Songs]
+Fog in the Stag's Glade -|- 00:06:45
+Pathways Into the Mosswood -|- 00:04:46
+Eyries of the Mist Hawks -|- 00:05:32
+Dusk in the Ancient Forest -|- 00:03:04
+Moonrain the the Fog Glade -|- 00:03:15
+Forest Heart -|- 00:07:01

@@ -1,0 +1,19 @@
+[Name]
+The Old Wanderers Tale -|- Foglord
+
+[Info]
+Demo
+2015-05-05
+Self-Released
+N/A
+Digital
+
+[Cover]
+cover.jpg
+
+[Notes]
+This is a short demo consisting of two tracks. The first track is an outtake from the album 'Journey of the Spirits' and the second is one that I had been working on for awhile and had forgot about and upon listening again decided it sounded good. I thought that this would be the best way to release these songs since they weren't going to be used on any album.
+
+[Songs]
+The Tower in the Forest -|- 00:01:50
+The Old Wanderers Tale -|- 00:11:20

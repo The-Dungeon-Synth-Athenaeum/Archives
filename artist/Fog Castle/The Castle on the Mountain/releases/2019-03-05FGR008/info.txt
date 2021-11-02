@@ -1,0 +1,24 @@
+[Name]
+The Castle on the Mountain -|- Fog Castle
+
+[Info]
+Full-Length
+2019-03-05
+Fableglade Records
+FGR008
+Cassette
+50
+
+[Cover]
+cover.jpg
+
+[Songs]
+{A}
+Towers of Fog & Twilight -|- 00:06:51
+Lost Lore of the Mountain Halls -|- 00:05:45
+Corridors of Stone & Silver -|- 00:08:15
+The Castle on the Mountain -|- 00:08:12
+{B}
+Secret of the Crystal Caves -|- 00:05:39
+Sanctuary of Ancient Stone -|- 00:06:34
+Forests Beyond the Far Horizon -|- 00:07:30

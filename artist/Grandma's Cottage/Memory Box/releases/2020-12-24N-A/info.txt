@@ -1,0 +1,25 @@
+[Name]
+Memory Box -|- Grandma's Cottage
+
+[Info]
+Full-Length
+2020-12-24
+Self-Released
+N/A
+Digital
+
+[Cover]
+cover.jpg
+
+[Songs]
+painting eggs -|- 00:02:00
+screen door -|- 00:02:15
+memory box -|- 00:02:16
+edwardian nostalgia -|- 00:01:50
+breakfast -|- 00:01:59
+dish soap -|- 00:02:40
+calico -|- 00:01:56
+photographs -|- 00:01:50
+mouse trap -|- 00:02:15
+keepsakes -|- 00:02:45
+country home -|- 00:03:38

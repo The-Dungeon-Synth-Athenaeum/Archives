@@ -1,0 +1,22 @@
+[Name]
+Through Mountain and Forest -|- Foglord
+
+[Info]
+Demo
+2012-06-09
+Self-Released
+N/A
+
+[Cover]
+cover.jpg
+
+[Notes]
+This is my first demo. The sound quality on this album is very poor, as it was before I acquired proper recording equipment and had to record in unconventional ways. This also contains a cover of the Mortiis song called "Battles on Ice" from the 1996 Single "Blood and Thunder".
+
+[Songs]
+The Wanderer -|- 00:01:31
+Olden Lands -|- 00:03:31
+Through Mountain and Forest -|- 00:04:38
+The Path -|- 00:03:10
+Battles on Ice(Mortiis Cover) -|- 00:02:15
+The Journey's End -|- 00:01:14

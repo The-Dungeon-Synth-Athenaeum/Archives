@@ -8,11 +8,8 @@ Dungeons Deep Records
 DDR025
 Cassette
 
-
-[Cover]
-cover.jpg 
-
 [Notes]
+-|- Repress
 Repress
 
 Cassette includes bonus tracks: "K"(4:54) & "L"(5:42)

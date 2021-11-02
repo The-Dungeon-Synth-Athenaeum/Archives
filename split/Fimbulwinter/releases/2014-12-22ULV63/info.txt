@@ -1,0 +1,23 @@
+[Name]
+Fimbulwinter -|- Elador \-/ Foglord
+
+[Info]
+Split
+2014-12-22
+Wulfrune Worxxx
+ULV 763
+Cassette
+33
+
+[Cover]
+cover.jpg
+
+[Songs]
+Foglord - First Light Upon the Land -|- 00:02:14
+Foglord - The Great Forest Gathering -|- 00:04:16
+Foglord - Autummnal Solitude -|- 00:03:11
+Foglord - The Dream of a Winter's Night -|- 00:08:14
+Elador - Chains of the Northern Fogs -|- 00:03:49
+Elador - Into a Mystery of Frostwind -|- 00:03:23
+Elador - Fullmoon Over Eternal Cold -|- 00:02:19
+Elador - Cold Starlight Falls Above Icy Plains -|- 00:02:23

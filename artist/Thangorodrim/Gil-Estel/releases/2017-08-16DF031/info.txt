@@ -1,0 +1,24 @@
+[Name]
+Gil-Estel -|- Thangorodrim
+
+[Info]
+Full-Length
+2017-08-16
+Deivlforst Records
+DF031
+Cassette
+50
+
+[Cover]
+cover.jpg 
+
+[Notes]
+Lyrics: J.R.R. Tolkien 1977,
+Chapter 24: Of the Voyage of Earendil and the war of Wrath
+
+[Songs]
+Into the Great Battle -|- 00:14:03
+Ancalagon  -|- 00:10:50
+Vingilótë -|- 00:04:55
+By the Light of the Silmaril  -|- 00:12:48
+Thangorodrim's Ruin  -|- 00:08:12

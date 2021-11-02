@@ -1,0 +1,19 @@
+[Name]
+Shrouded In Mystery -|- Forgotten Pathways
+
+[Info]
+Full-Length
+1998
+Self-Released
+N/A
+Cassette
+
+[Cover]
+cover.jpg
+
+[Songs]
+Incoming -|- 00:04:45
+Dyfed -|- 00:02:25
+Wuduaelfen -|- 00:08:56
+Darkened / In Caverns Deep -|- 00:11:28
+(Outro) Battle Of Bravellir -|- 00:02:38
