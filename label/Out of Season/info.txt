@@ -17,8 +17,16 @@ info@outofseasonlabel.com -|- mailto:info@outofseasonlabel.com
 label.webp
 
 [Releases]
-OOS21 -|- Fief -|- I -|- Full-Length -|- 2016 -|- Cassette
-OOS34 -|- Fief -|- II -|- Full-Length -|- 2016 -|- Cassette
-OOS56 -|- Fief -|- III -|- Full-Length -|- 2017 -|- Cassette
-OOS75 -|- Fief -|- IV -|- Full-Length -|- 2018 -|- Cassette
-OOS110 -|- Fief -|- V -|- Full-Length -|- 2019 -|- Cassette
+oos100 -|- Thangorodrim -|- Prologue -|- Compilation -|- 2020-03-31 -|- Cassette
+oos110 -|- Fief -|- V -|- Full-Length -|- 2020-02-20 -|- Cassette
+oos1 -|- Foglord -|- Winter Dreams -|- Compilation -|- 2016-02-29 -|- Cassette
+oos126 -|- Foglord -|- Tales From The Woods -|- Full-Length -|- 2021-03-01 -|- Cassette
+oos131 -|- Fogweaver -|- Verduran -|- Full-Length -|- 2021-07-12 -|- CD
+oos14 -|- Thangorodrim -|- Taur Nu Fuin -|- Full-Length -|- 2016-07-31 -|- Cassette
+oos21 -|- Fief -|- I -|- Full-Length -|- 2016-10-02 -|- Cassette
+oos34 -|- Fief -|- II -|- Full-Length -|- 2017-01-31 -|- Cassette
+oos4 -|- Thangorodrim -|- Towers of the Teeth -|- EP -|- 2016-04-21 -|- Cassette
+oos46 -|- Foglord -|- Celestial -|- Full-Length -|- 2017-11-25 -|- Cassette
+oos47 -|- Foglord -|- The Healing Gardens -|- Full-Length -|- 2017-09-25 -|- Cassette
+oos56 -|- Fief -|- III -|- Full-Length -|- 2018-01-16 -|- Cassette
+oos75 -|- Fief -|- IV -|- Full-Length -|- 2019-03-29 -|- Cassette

@@ -18,4 +18,4 @@ Also runs <a href="https://www.forsakenrelics.com/">Forsaken Relics</a>
 logo.jpg
 
 [Releases]
-GON072 -|- Solanum -|- Spheres Of Time -|- Demo -|- 2020 -|- Cassette
+GON084 -|- Ulk -|- Shellbound -|- Full-Length -|- 2021-11-04 -|- Cassette

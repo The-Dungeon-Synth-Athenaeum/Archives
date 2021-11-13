@@ -1,0 +1,21 @@
+[Name]
+Ulk
+
+[Info]
+Dungeon Synth
+Turtles 
+Netherlands
+Utrecht
+Active
+2019-Present
+Gondolin Records 
+
+[Images]
+logo.jpg -|- 200px-200px
+
+[Albums]
+Shellbound -|- Full-Length -|- 2021
+
+[Links]
+Bandcamp -|- https://ulkmusic.bandcamp.com/
+Discogs -|- https://www.discogs.com/artist/7057330-Ulk

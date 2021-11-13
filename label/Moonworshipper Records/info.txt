@@ -18,4 +18,4 @@ label.png
 logo.jpg -|- 300px-300px
 
 [Releases]
-MWR 097 -|- Hideous Gomphidius -|- Keepers of the Fungal Order -|- Full-Length -|- 2021 -|- Cassette
+MWR097 -|- Hideous Gomphidius -|- Keepers of the Fungal Order -|- Full-Length -|- 2021-04-02 -|- Cassette

@@ -18,6 +18,11 @@ label.jpg -|- 200-200
 label2.jpg -|- 300-
 
 [Releases]
-DDR038 -|- Hole Dweller -|- flies the coop -|- Full Length -|- 2019 -|- Cassette
-DDR053 -|- Hole Dweller -|- Returns to Roost -|- Full Length -|- 2020 -|- Cassette
-DDR068 -|- Hole Dweller -|- flies the coop II -|- Full Length -|- 2020 -|- Cassette
+DDR025 -|- And The Oceans Dream Eternal -|- Nocturnal Obeisance -|- Full-Length -|- 2019-03-01 -|- Cassette
+DDR025 -|- And The Oceans Dream Eternal -|- Nocturnal Obeisance -|- Full-Length -|- 2021 -|- Cassette
+DDR026 -|- Bellkeeper -|- The First Flame of Lordran -|- Full-Length -|- 2019-02-06 -|- Cassette
+DDR026 -|- Bellkeeper -|- The First Flame of Lordran -|- Full-Length -|- 2020-02-07 -|- Cassette
+DDR038 -|- Hole Dweller -|- flies the coop -|- Full-Length -|- 2019-10-25 -|- Cassette
+DDR046 -|- ESTOC -|- Chapter I -|- Full-Length -|- 2019-12-08 -|- Cassette
+DDR053 -|- Hole Dweller -|- Returns to Roost -|- Full-Length -|- 2020-03-07 -|- Cassette
+DDR068 -|- Hole Dweller -|- flies the coop II -|- Full-Length -|- 2020-11-27 -|- Cassette

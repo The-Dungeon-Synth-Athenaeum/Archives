@@ -1,0 +1,21 @@
+[Name]
+Shellbound -|- Ulk
+
+[Info]
+Full-Length
+2021-11-04
+Gondolin Records
+GON084
+Cassette
+150
+
+[Cover]
+cover.jpg
+
+[Songs]
+Hours of Idleness -|- 00:06:57
+Sleepers Awake -|- 00:06:56
+Through Shallow Waters -|- 00:03:21
+Last Night's Storm -|- 00:08:51
+Drained Fatigue -|- 00:04:34
+

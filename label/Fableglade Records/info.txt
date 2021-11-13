@@ -18,4 +18,7 @@ Run by <a href="../../artist/Dylan Rupe">Dylan Rupe</a>
 logo.png
 
 [Releases]
-FGR006 -|- Fogweaver -|- Spellwind -|- Full-Length -|- 2020 -|- Cassette
+FGR006 -|- Fogweaver -|- Spellwind -|- Full-Length -|- 2020-06-21 -|- Cassette
+FGR008 -|- Fog Castle -|- The Castle on the Mountain -|- Full-Length -|- 2019-03-05 -|- Cassette
+FGR009 -|- Erreth-Akbe \-/ Fogweaver -|- The Immanent Grove -|- Split -|- 2020-06-23 -|- Cassette
+FGR017 -|- Fog Castle \-/ Foglord \-/ Fogweaver -|- In The Kingdom Of Fog -|- Split -|- 2021-03-20 -|- Cassette
